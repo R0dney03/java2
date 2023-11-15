@@ -1,0 +1,17 @@
+public class Studentdetails {
+    public static void main(String[] args) {
+        String course = "DIT";
+        String name = "Harry k";
+        String reg = "22/05558";
+        String dob = "3/04/2029";
+        String vision = "TO PASS";
+        String favLang = "JAVA PROGRAMING";
+
+        System.out.println("Course: " + course);
+        System.out.println("Name: " + name);
+        System.out.println("Registration Number: " + reg);
+        System.out.println("Date of Birth: " + dob);
+        System.out.println("Vision: " + vision);
+        System.out.println("Favourite Programming Language: " + favLang);
+    }
+}
